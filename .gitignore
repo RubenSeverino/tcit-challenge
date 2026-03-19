@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+dist/
+build/
+
+# Seguridad
+.env
+
+# Archivos de configuración local de editores
+.vs/
+.vscode/
+.idea/
+.DS_Store
